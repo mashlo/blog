@@ -8,3 +8,9 @@
   margin: 0 0 1em;
   text-transform: capitalize; 
 }
+
+.home-title {
+  color: $background-color;
+  background: $text-color;
+  font-weight: $font-weight-base-bold;
+}
